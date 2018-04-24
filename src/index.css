@@ -1,0 +1,37 @@
+.am-tab-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+.carousel_style {
+    overflow: hidden;
+}
+
+.my-list .spe .am-list-extra {
+    flex-basis: initial;
+}
+
+#chat-me #me .am-list-extra{
+	flex-basis: auto;
+}
+
+#chat-me #me .am-list-content{
+	padding-right: 15px;
+	text-align: right !important;
+}
+
+.stick-footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.chat-page-emoji {
+	margin-right: 15px;
+}
+
+.chat-page-submit {
+	font-size: 18px;
+}
